@@ -1,0 +1,1 @@
+let applique2 f x = f ( f x);;
